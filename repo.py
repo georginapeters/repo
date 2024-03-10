@@ -1,7 +1,7 @@
 
 # Practical Task 3
 
-who = input("What is your who? ")
+name = input("What is your name? ")
 
-print(f"Hi there {who}") 
+print(f"Hi there {name}")
 
